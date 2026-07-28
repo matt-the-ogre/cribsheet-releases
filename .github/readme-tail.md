@@ -6,9 +6,9 @@ A signed, notarised build is coming here very soon:
 - Direct download from this repo's [Releases](https://github.com/matt-the-ogre/cribsheet-releases/releases)
 - Homebrew: `brew install --cask matt-the-ogre/tap/cribsheet` (goes live with the first release)
 
-Until then, email [cribsheet@fastmail.ca](mailto:cribsheet@fastmail.ca) to get notified when it ships, or watch this repo.
+Until then, watch this repo, or email cribsheet [at] mattmanuel [dot] com to get notified when it ships.
 
-More at [mattmanuel.ca/cribsheet](https://www.mattmanuel.ca/cribsheet/).
+More at [mattmanuel.com/cribsheet](https://mattmanuel.com/cribsheet/).
 
 ## Support
 
