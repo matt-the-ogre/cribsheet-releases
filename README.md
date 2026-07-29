@@ -7,7 +7,7 @@
 
 ## Hold ⌘. See every shortcut
 
-<p class="app-status">Early days · free · not yet released</p>
+<p class="app-status">Free · version 0.4.0 · macOS 14 or later</p>
 
 Cribsheet is a tiny background utility for macOS. Press and hold Command
 for a moment, and a floating overlay shows every keyboard shortcut in
@@ -34,7 +34,7 @@ check, nothing sent anywhere, ever. See the
 
 ### Requirements
 
-macOS 14 or later. Free. About 2&nbsp;MB.
+macOS 14 or later. Free. Under 1&nbsp;MB.
 
 
 ## Get it
