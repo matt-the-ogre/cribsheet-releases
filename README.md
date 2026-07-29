@@ -39,14 +39,12 @@ macOS 14 or later. Free. Under 1&nbsp;MB.
 
 ## Get it
 
-A signed, notarised build is coming here very soon:
+- Download the [latest release](https://github.com/matt-the-ogre/cribsheet-releases/releases/latest), unzip, and drag Cribsheet.app to Applications
+- Or Homebrew: `brew install --cask matt-the-ogre/tap/cribsheet`
 
-- Direct download from this repo's [Releases](https://github.com/matt-the-ogre/cribsheet-releases/releases)
-- Homebrew: `brew install --cask matt-the-ogre/tap/cribsheet` (goes live with the first release)
+Builds are signed with Developer ID and notarised by Apple, universal for Apple Silicon and Intel. On first launch, grant access in System Settings > Privacy & Security > Accessibility.
 
-Until then, watch this repo, or email cribsheet [at] mattmanuel [dot] com to get notified when it ships.
-
-More at [mattmanuel.com/cribsheet](https://mattmanuel.com/cribsheet/).
+More at [mattmanuel.com/cribsheet](https://mattmanuel.com/cribsheet/). Bugs and ideas go to the [issue tracker](https://github.com/matt-the-ogre/cribsheet-releases/issues).
 
 ## Support
 
