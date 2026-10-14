@@ -7,7 +7,7 @@
 
 ## Hold ⌘. See every shortcut
 
-<p class="app-status">Free · version 0.4.1 · macOS 14 or later</p>
+<p class="app-status">Free · version 0.4.2 · macOS 14 or later</p>
 
 Cribsheet is a tiny background utility for macOS. Press and hold Command
 for a moment, and a floating overlay shows every keyboard shortcut in
@@ -28,8 +28,9 @@ thing until its developer moved on; Cribsheet exists because I missed it.
 ### Built to see nothing else
 
 Cribsheet reads menu titles and their shortcuts. Nothing more. It makes
-no network calls of any kind — no telemetry, no analytics, no update
-check, nothing sent anywhere, ever. See the
+no network calls unless you turn on the optional *Help the developer*
+switch in Settings, which is off by default. There is no update check
+and nothing else is ever sent. See the
 [privacy policy](https://mattmanuel.com/privacy/) — it's short.
 
 ### Requirements
